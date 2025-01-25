@@ -1,9 +1,14 @@
 # Psychopy-Experiment-Interface
 
 
-## Steps to run the interface
+## Steps to run
 1. Python Version required - 3.10
-2. Create a conda environment
+2. Create a folder where you will download this repo
+3. Into the folder
+```bash
+cd psychopy_Experiment-Inrerface
+```
+5. Create a conda environment
 ```bash
 conda create -n "psychopy_env" python=3.10
 conda activate psychopy_env
