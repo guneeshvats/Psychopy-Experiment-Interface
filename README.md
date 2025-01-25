@@ -1,4 +1,5 @@
 # Psychopy-Experiment-Interface
+This is the interface of an experiment of Cognitive Science lab at International Institute of Information Technology (IIIT) Hyderabad. 
 
 
 ## Steps to run
