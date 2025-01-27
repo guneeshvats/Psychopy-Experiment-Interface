@@ -18,3 +18,7 @@ conda activate psychopy_env
 ```bash
 pip install -r requirements.txt
 ```
+
+
+## Modifications
+- If you want to run the experiment in full screen - there is a window object 'win' setup, modify the `fullscr=False` to `fullscr=True`. 
