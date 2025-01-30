@@ -22,3 +22,7 @@ pip install -r requirements.txt
 
 ## Optional Modifications
 - If you want to run the experiment in full screen - there is a window object 'win' setup, modify the `fullscr=False` to `fullscr=True`. 
+- If you want to change the Content - I have clearly labelled each section of the code and the stage it belongs to in the experiment - you can modify the content being displatyed on the page from there.
+
+
+Best of Luck for the Experiment!
